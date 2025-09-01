@@ -49,7 +49,7 @@ This project implements an intelligent CCTV system featuring real-time object de
 | `requirements.txt` | Python dependencies               |
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 
 
