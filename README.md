@@ -51,6 +51,5 @@ This project implements an intelligent CCTV system featuring real-time object de
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-***
 
-This README covers project details, setup, usage, and key features clearly for users and collaborators.
+
